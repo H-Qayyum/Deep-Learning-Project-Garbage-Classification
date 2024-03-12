@@ -1,5 +1,5 @@
-# APS360 Project: Fundamentals of Deep Learning 
-### Deep Learning Project for Garbage Classification using Pytorch 
+# APS360 Project: Applied Fundamentals of Deep Learning 
+### EcoSort: Garbage Classification using Pytorch 
 
 
 
