@@ -17,7 +17,7 @@ Hassan Qayyum
 
 ---
 
-Final Project Presentation: [Link to YouTube video]{https://youtu.be/lE9LQAO3Jug}
+Final Project Presentation: [Link to YouTube video](https://youtu.be/lE9LQAO3Jug)
 
 ---
 ## 1. Introduction
